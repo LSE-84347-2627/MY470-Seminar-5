@@ -3,3 +3,4 @@
 # Exercise 2: print "Hello Venus"
 print("Hello Venus")
 # Exercise 3: print "Hello Jupiter"
+print("Hello, Jupiter")
