@@ -4,4 +4,4 @@
 print("Hello Venus")
 
 # Exercise 3: print "Hello Jupiter"
-print("Hello, Jupiter")
+print("Hello Jupiter")
